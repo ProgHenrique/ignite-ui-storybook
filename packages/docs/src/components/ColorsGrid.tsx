@@ -1,4 +1,4 @@
-import { colors } from '@ignite-ui/tokens'
+import { colors } from '@henrique-ignite-ui/tokens'
 import { getContrast } from 'polished'
 import React from 'react'
 
