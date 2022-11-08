@@ -1,0 +1,2 @@
+import{A as t}from"./index.f048e53d.js";import"./index.16f59ed6.js";import"./iframe.72cf437f.js";import"./index.b1d0afb8.js";import"./jsx-runtime.04046094.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ProgHenrique.png",alt:"Henrique Ramos"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","withFallback"];export{p as Primary,m as __namedExportsOrder,e as default,c as withFallback};
+//# sourceMappingURL=Avatar.stories.ea42635e.js.map
